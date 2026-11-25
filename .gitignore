@@ -1,0 +1,12 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# IDE and OS metadata
+.idea/
+.DS_Store
+
+# Build and runtime output
+/target/
+/logs/
